@@ -3,5 +3,5 @@
 - Create date : 2/11/2025
 
 <kbd>
-  <img src="public/showcase.jpg">
+  <img src="showcase.jpg">
 </kbd>
